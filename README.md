@@ -1,9 +1,3 @@
-## Description
-- **Developed by Younes Alturkey** - [@younes-alturkey](https://github.com/younes-alturkey)
+## Pension Utility
 
-## Note
-- The complete source code of the tool is open source and can be forked.
--
-- Thank you,
-
-- Yousef Alturkey
+Simple web utility that calculates pension benefits and generate PDF report.
